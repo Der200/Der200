@@ -14,7 +14,7 @@ You are on the front-end developer page
 ### My skills
 
 ### Favourite repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Der200&repo=https://github.com/Der200/react-project-kitchen-frontend)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Der200&repo=react-project-kitchen-frontend)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
