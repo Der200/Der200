@@ -1,5 +1,5 @@
 ### Hello guest! 😎
-You are on the front-end developer page
+You are on the front-end developer page (stage: education)
 
 ### About me 
 - 📚 I like to study;
