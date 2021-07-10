@@ -11,7 +11,14 @@ You are on the front-end developer page (stage: education)
 - [ ] Working in Frontend;
 - [ ] improve my English.
 
-### My skills
+### Technologies
+![TypeScript](icons/typescript.png "TypeScript")
+![React](icons/react.png "React")
+![Redux](icons/redux.png "Redux")
+![JS](icons/js.png "JS")
+![HTML5](icons/html5.png "HTML5")
+![CSS3](icons/css3.png "CSS3")
+
 
 ### Old page
 https://github.com/Kandzyuba
