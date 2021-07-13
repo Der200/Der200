@@ -13,6 +13,7 @@ You are on the front-end developer page (stage: education)
 
 ### Additional Information
 old page: https://github.com/Kandzyuba
+
 mobile: +7 981 89 33 0 77
 
 ### Stats
