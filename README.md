@@ -12,7 +12,7 @@ You are on the front-end developer page (stage: education)
 - [ ] improve my English.
 
 ### Additional Information
-old page: https://github.com/Kandzyuba
+old page: [github](https://github.com/Kandzyuba)
 
 mobile: +7 981 89 33 0 77
 
