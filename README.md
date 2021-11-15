@@ -4,7 +4,6 @@ You are on the front-end developer page
 ### About me 
 - 📚 I like to study;
 - 🚀 workaholic;
-- 🤘 I believe in people;
 - 🌱 I’m currently learning TypeScript.
 
 ### Immediate goal
