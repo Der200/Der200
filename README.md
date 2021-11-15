@@ -11,8 +11,8 @@ You are on the front-end developer page
 - [ ] improve my English
 
 ### Additional Information
-gitlab page: [GitLab](https://gitlab.com/Der200)
-old page: [github](https://github.com/Kandzyuba)
+- gitlab page: [GitLab](https://gitlab.com/Der200)
+- old page: [github](https://github.com/Kandzyuba)
 
 mobile: +7 981 89 33 0 77
 
