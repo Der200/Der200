@@ -1,5 +1,5 @@
 ### Hello guest! 😎
-You are on the front-end developer page (stage: education)
+You are on the front-end developer page
 
 ### About me 
 - 📚 I like to study;
@@ -7,9 +7,8 @@ You are on the front-end developer page (stage: education)
 - 🤘 I believe in people;
 - 🌱 I’m currently learning TypeScript.
 
-### Immediate goals
-- [ ] Working in Frontend;
-- [ ] improve my English.
+### Immediate goal
+- [ ] improve my English
 
 ### Additional Information
 gitlab page: [GitLab](https://gitlab.com/Der200)
