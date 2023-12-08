@@ -13,12 +13,7 @@
 </br>
 <h3 align="center">Commercial (without NDA)</h3>
 <div align="center">
-  
-|Working title|Year|Description|
-|:-----:|---|---|
-|<a href="https://github.com/Der200/grid-frontend">Grid</a>|2021|SPA template with: React, Material UI, Redux Toolkit|
-|<a href="https://github.com/Der200/gas-frontend">Gas</a>|2021|SPA with: React, Material UI, Redux Toolkit|
-</div>
+
 </br>
 <h3 align="center">Technologies</h3>
 
