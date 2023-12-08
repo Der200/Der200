@@ -11,10 +11,6 @@
 |2022 </br> (few weeks)|<a href="https://www.jetbrains.com/ru-ru/academy/">JetBrains Academy</a>|Frontend Developer (Beta)|<a href="https://github.com/Der200/jba-todo">To-Do List</a> ; <a href="https://github.com/Der200/jba-case-converter">Case Converter</a> ; <a href="https://github.com/Der200/jba-flashcards">Flashcards</a> ; <a href="https://github.com/Der200/jba-virtual-piano">Virtual Piano</a> ; <a href="https://github.com/Der200/jba-open-space">Open Space</a> ; <a href="https://github.com/Der200/jba-portfolio">Portfolio</a>|
 
 </br>
-<h3 align="center">Commercial (without NDA)</h3>
-<div align="center">
-
-</br>
 <h3 align="center">Technologies</h3>
 
 <div align="center">
